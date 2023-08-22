@@ -2,7 +2,6 @@ deepface==0.0.79
 Flask==2.3.2
 Flask_Cors==4.0.0
 numpy==1.24.3
-ffmpeg-python
-opencv-python-headless
-opencv_python==4.8.0.76
+ffmpeg-python==0.2.0
+opencv-python-headless==4.8.0.76
 
